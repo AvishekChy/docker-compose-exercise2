@@ -1,4 +1,4 @@
-# docker-compose-exercise
+<!-- # docker-compose-exercise
 This is a Docker compose exercise made for the Capgemini Engineering Docker workshop.
 
 ## Project structure
@@ -31,4 +31,4 @@ Create a docker-compose.yml file to run the webapp and the database. Information
 Once your created the docker-compose.yml file, run:
 ```
 docker-compose up
-```
+``` -->
