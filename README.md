@@ -18,12 +18,12 @@ To run the containers I had to execute only one command using `docker compose`.
 
 ### Creating a docker-compose.yml
 
-Create a docker-compose.yml file to run the webapp and the database. Information on how to create such a file can be found here:
+Created a docker-compose.yml file to run the webapp and the database. Information on how to create such a file can be found here:
 
 - https://docs.docker.com/compose/overview/
 - https://docs.docker.com/compose/compose-file/
 
-Once your created the docker-compose.yml file, run:
+Once the docker-compose.yml file is created, run:
 
 ```
 docker compose up -d
